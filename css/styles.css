@@ -1,0 +1,10 @@
+#gallery img {
+    height: 150px;
+    width: 100%;
+    object-fit: cover;
+    cursor: pointer;
+}
+
+#gallery .col {
+    margin-bottom: 15px;
+}
